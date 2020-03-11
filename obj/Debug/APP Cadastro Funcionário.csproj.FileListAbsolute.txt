@@ -1,0 +1,39 @@
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.exe.config
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.exe
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.pdb
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csprojAssemblyReference.cache
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.Form1.resources
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.Properties.Resources.resources
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csproj.GenerateResource.cache
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.exe
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.pdb
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\Database3.mdb
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.FormCad.resources
+C:\Users\Victor Antonangelo\source\repos\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.FormConsulta.resources
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\Database3.mdb
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.exe.config
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.exe
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.pdb
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csprojAssemblyReference.cache
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.Form1.resources
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.FormCad.resources
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.FormConsulta.resources
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.Properties.Resources.resources
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csproj.GenerateResource.cache
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.exe
+C:\Users\sidne\Downloads\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.pdb
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\Database3.mdb
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.exe.config
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.exe
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\bin\Debug\APP Cadastro Funcionário.pdb
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csprojAssemblyReference.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.Form1.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.FormCad.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.FormConsulta.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP_Cadastro_Funcionário.Properties.Resources.resources
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csproj.GenerateResource.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.csproj.CoreCompileInputs.cache
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.exe
+C:\Users\sidne\Documents\Faculdade\Linguagens de Programação (Fábio)\APP Cadastro Funcionário\APP Cadastro Funcionário\APP Cadastro Funcionário\obj\Debug\APP Cadastro Funcionário.pdb
